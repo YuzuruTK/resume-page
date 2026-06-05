@@ -1,4 +1,4 @@
-# Gabriel Buron — Portfolio
+# Web Resume
 
 A static portfolio site that reads `portfolio.md` and renders it automatically.  
 No build step. No framework. Just drop it on Cloudflare Pages.

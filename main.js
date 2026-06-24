@@ -122,7 +122,7 @@ function parse(raw) {
       if (tripleMatch) {
         flushExp();
         currentExp = { role: tripleMatch[1], company: tripleMatch[2], date: tripleMatch[3], bullets: [] };
-      } else if (boldMatch && !currentExp) {
+      } else if (boldMatch) {
         flushExp();
         currentExp = { role: boldMatch[1], company: '', date: '', bullets: [] };
       } else if (currentExp) {
@@ -149,7 +149,7 @@ function parse(raw) {
       if (tripleMatch) {
         flushEdu();
         currentEdu = { degree: tripleMatch[1], date: tripleMatch[2], school: '', location: '', coursework: '' };
-      } else if (boldMatch && !currentEdu) {
+      } else if (boldMatch) {
         flushEdu();
         currentEdu = { degree: boldMatch[1], date: '', school: '', location: '', coursework: '' };
       } else if (currentEdu) {

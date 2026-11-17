@@ -1,113 +1,99 @@
----
----
-
 # Gabriel Bortoli Buron
 
-<span class="iconify" data-icon="charm:person"></span> [buron.dev](https://buron.dev/)
-  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/YuzuruTK](https://github.com/YuzuruTK)
-  : <span class="iconify" data-icon="tabler:phone"></span> [(+55) 55 9 9203-2426](https://wa.me/5555992032426)
+[buron.dev](https://buron.dev/) · [GitHub](https://github.com/YuzuruTK) · [LinkedIn](https://linkedin.com/in/gabriel-buron/)  
+Ijuí, Rio Grande do Sul, Brazil · [+55 55 9 9203-2426](https://wa.me/5555992032426) · [gabriel@buron.dev](mailto:gabriel@buron.dev)
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> Ijuí, Rio Grande do Sul, Brazil
-  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/gabriel-buron](https://linkedin.com/in/gabriel-buron/)
-  : <span class="iconify" data-icon="tabler:mail"></span> [gabriel@buron.dev](mailto:gabriel@buron.dev)
+## Professional Summary
 
-## Summary
+Computer Science student and software development professional with experience across software engineering, systems analysis, data processing, and systems integration. Skilled in building applications, working with relational databases, analyzing data, and developing cloud-based solutions. Comfortable working across different technologies and programming languages, with a practical approach to problem-solving and continuous learning.
 
-Computer Science student passionate about Competitive Programming and development. Currently interested in Game Development and Data Science, but loves creating new things and designing solutions for any type of problem.
+## Professional Experience
 
-## Experience
+**Systems Analyst Assistant — Letsara**  
+*October 2026 – Present*
 
-**Data Engineering Intern**
-  : **Compass UOL**
-  : **Jun 2024 - Nov 2024**
+- Work across software development, SQL querying, data analysis, and enterprise systems support.
+- Develop and optimize PostgreSQL queries for business intelligence and operational processes.
+- Contribute to the modernization of BI workflows by transforming existing processes into SQL-based solutions.
+- Refactor application interfaces and contribute to the development of internal systems and a centralized portal.
 
-- Developed data engineering projects using AWS cloud technologies (S3, Lambda, Glue, QuickSight) with a focus on ETL and transforming data into information
-- Built a project that retrieves data from the IMDB API and automatically executes the ETL process into a usable Data Warehouse as an information source, using Python with Spark (PySpark)
+**Attendant — Empreendimentos Pizutti**  
+*December 2021 – October 2026*
 
+- Managed operational activities in the theoretical education sector, including exam and classroom scheduling and student support.
+- Handled documentation and administrative processes related to driver's licenses, including partnerships and government social programs such as CNH Social (2025 – RS).
+- Provided technical support for software systems and hardware.
+- Developed Python automation tools to streamline administrative tasks, including exam scheduling and document backup management.
 
-**IoT Research Intern**
-  : **Unijuí**
-  : **Feb 2024 - Jun 2024**
+**Data Engineering Intern — Compass UOL**  
+*June 2024 – November 2024*
 
-- Contributed to a growing Smart Cities project at Unijuí, analyzing LoRa sensor data with Python to generate insights from real-world data collected since 2022 in a PostgreSQL database
-- Developed systems using Python and Flutter for data collection, processing, and visualization with Pandas and Seaborn, handling over 300,000 unique data entries
-- Conducted IoT experiments and presented research findings to nearly 200 attendees at events
+- Developed data engineering projects using AWS services, including S3, Lambda, Glue, and QuickSight, focusing on ETL processes and data transformation.
+- Built a data pipeline to retrieve information from the IMDb API and automate its transformation into a Data Warehouse using Python and PySpark.
 
+**IoT Research Intern — Unijuí**  
+*February 2024 – June 2024*
 
-**Attendant**
-  : **Empreendimentos Pizutti**
-  : **Dec 2021 - Current**
-
-- Provided customer service
-- Mainly responsible for the Theoretical Sector, scheduling tests and classrooms, and supporting students
-- Managed documentation for complex processes related to driver's licenses, including partnerships with other companies and government social projects such as CNH SOCIAL (2025 - RS)
-- Offered general technical support for software systems and hardware
-- Developed tools to streamline simple tasks using Python, including a management system for test scheduling and document backup management
+- Contributed to a Smart Cities research project, analyzing LoRa sensor data collected since 2022 and stored in PostgreSQL.
+- Developed Python and Flutter applications for data collection, processing, and visualization using Pandas and Seaborn, handling over 300,000 unique data entries.
+- Conducted IoT experiments and presented research findings to nearly 200 attendees at academic events.
 
 ## Education
 
-**Bachelor in Computer Science**
-  : **Feb 2022 - Expected 2027**
+**Bachelor's Degree in Computer Science**  
+*February 2022 – Expected 2027*  
+Unijuí — Universidade Regional do Noroeste do Estado do Rio Grande do Sul  
+Ijuí, RS, Brazil
 
-Unijuí | Universidade Regional do Noroeste do Estado do RS
-  : Ijuí, RS
+Relevant coursework: Software Engineering, Web Development, Object-Oriented Programming, Algorithms, Databases, Data Science, Big Data Analytics, Distributed Systems, Artificial Intelligence, Operating Systems, Computer Networks, and Human-Computer Interaction.
 
-Relevant coursework: Web Development · Algorithmic Programming · Object-Oriented Programming · Software Engineering · UI Programming · Business Layer Programming · Game Development · Parallel Programming · Databases · Data Science · Big Data Analytics · Numerical Methods · Computer Architecture · Data Structures · Operating Systems · Computer Networks · Distributed Systems · Embedded Systems · Artificial Intelligence · Human-Computer Interaction (HCI) · Interface Design
+**Technical Degree in IT Support and Maintenance**  
+*February 2019 – December 2021*  
+Farroupilha Federal Institute — Santo Ângelo, RS, Brazil
 
-**Technical Degree in IT Support and Maintenance**
-  : **Feb 2019 - Dec 2021**
+## Technical Skills
 
-Farroupilha Federal Institute
-  : Santo Ângelo, RS
+**Programming Languages:** Python, JavaScript, TypeScript, Go, Java, Dart, SQL
 
-## Skills
+**Backend & Application Development:** Node.js, React, Hono, Flask, Django, Flutter, REST APIs, Model Context Protocol (MCP)
 
-**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, Go, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript, Dart
+**Databases & Data Engineering:** PostgreSQL, DuckDB, SQLite, Cloudflare D1, Pandas, PySpark, ETL, Data Analysis
 
-**Databases:** SQL, PostgreSQL, DuckDB
+**Cloud & Infrastructure:** AWS (S3, Lambda, Glue, QuickSight), Cloudflare Workers, Docker, Docker Compose
 
-**Cloud:** AWS (S3, Lambda, Glue, Spark, QuickSight)
+**Development Tools & Environments:** Git, GitHub, Linux (Fedora, Debian), Windows
 
-**Frameworks/Tools:** Flutter, Django, Flask, PySpark, Docker, Docker Compose, Git, Pandas, Seaborn
+**Interpersonal Skills:** Analytical Thinking, Problem Solving, Proactivity, Resilience, Teamwork, Communication, Adaptability, Curiosity
 
-**Operating Systems:** Linux (Fedora, Debian), Windows (7, 8.1, 10, 11)
-
-**Interpersonal Skills:** Proactivity, Analytical Thinking, Resilience, Curiosity, Teamwork, Communication, Adaptability
-
-**Languages:** English (Advanced), Portuguese (Native)
+**Languages:** Portuguese (Native), English (Advanced)
 
 ## Certifications
 
-**AWS Cloud Practitioner CLF-C02**, AWS
-  : 2024
+- **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services, 2024
+- **Prompt Design in Vertex AI** — Google Cloud, 2025
 
-**Prompt Design in Vertex AI**, Google Cloud
-  : 2025
+## Awards & Honors
 
-## Awards and Honors
+- **1st Place** — Unijuí Programming Marathon, June 2026
+- **10th Place** — SBC Programming Marathon, Rio Grande do Sul Super-Regional, 2025
+- **1st Place** — Unijuí Programming Marathon Warmup, 1st and 2nd Editions, 2025
+- **National Participant** — SBC Programming Marathon, 2024
+- **1st Place** — Unijuí Programming Marathon Warmup, 2024
 
-**10th Place**, SBC Programming Marathon 2025 — Rio Grande do Sul Super-Regional
-  : 2025
+## Selected Projects
 
-**1st Place**, Unijuí Programming Marathon Warmup (1st and 2nd editions)
-  : 2025
+**Meteo-data** · [GitHub](https://github.com/YuzuruTK/Meteo-data)  
+A configuration-driven meteorological data collection platform built around scheduled ingestion, multi-provider API integration, historical data storage, and visualization. Includes a React dashboard, REST endpoints, and web push notifications for rainfall alerts.  
+*Technologies: TypeScript, Cloudflare Workers, Cloudflare D1, React, Vite, Recharts, REST APIs, Vitest.*
 
-**National Participant**, SBC Programming Marathon
-  : 2024
+**Zoho Personal Integration** · [GitHub](https://github.com/YuzuruTK/zoho-personal-integration)  
+A personal assistant backend integrating Zoho Calendar with OpenCode through the Model Context Protocol (MCP). Provides calendar access, event search, and availability calculations, alongside a private web chat interface and containerized deployment.  
+*Technologies: Node.js, TypeScript, Zoho API, OpenCode, MCP, Docker, SQLite, Cloudflare Tunnel.*
 
-**1st Place**, Unijuí Programming Marathon Warmup
-  : 2024
+**FASTA2GO** · [GitHub](https://github.com/YuzuruTK/FASTA2GO)  
+A bioinformatics pipeline for processing protein sequences, extracting physicochemical and sequence-based features, integrating UniProt annotations, and preparing Gene Ontology Slim labels for molecular function prediction workflows.  
+*Technologies: Python, DuckDB, BioPython, UniProt REST API, SQL, Pandas, scikit-learn, XGBoost, AutoGluon.*
 
-## Projects
-
-- **Datasus Data Analysis**
-
-    Built a Python solution for processing and analyzing public health data
-
-- **SusCube**
-
-    Contributed to the development of a tool to easily download and create a database with SUS (Sistema Único de Saúde) data for deep analysis using Shell Script and Python
-
-- **Digital Time Clock App**
-
-    Developed a mobile application for time tracking using Flutter
+**Thought Box API** · [GitHub](https://github.com/YuzuruTK/thought_box_api)  
+An AI-powered knowledge management application with a REST API and web interface, supporting structured information storage and AI-assisted generation of summaries and Markdown documents.  
+*Technologies: TypeScript, React, Cloudflare Workers, Hono, D1, Drizzle ORM, Zod, JWT, OpenRouter.*
